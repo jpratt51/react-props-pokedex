@@ -1,0 +1,19 @@
+.PokemonCard {
+    background-color: lightgrey;
+    border-radius: 5%;
+    width: 240px;
+    height: auto;
+    padding: 20px;
+    margin: 20px;
+    flex-wrap: wrap;
+    flex: 250px;
+    text-align: center;
+}
+
+.PokemonCard-name {
+    color: blue;
+}
+
+.PokemonCard-img {
+    width: 210px;
+}

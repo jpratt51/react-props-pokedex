@@ -1,0 +1,10 @@
+#Pokedex-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#Pokedex-header {
+    color: lightgrey;
+    text-align: center;
+    font-size: xx-large;
+}
